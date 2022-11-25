@@ -9,7 +9,7 @@ Hasil Output
 Membuat program sederhana untuk menambahkan data ke dalam list<br>
 Berikut adalah Flowchart dari program yang dibuat<br>
 
-![Gambar 1](list/code.png)
+![Gambar 1](list/ss.png)
 
 dan dibawah ini adalah code dari program yang dibuat<br>
 
